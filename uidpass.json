@@ -1,22 +1,974 @@
 [
-    {
-        "uid": "4670706642",
-        "password": "riski_ZRP2M_BY_MG24_GAMER_D7R6N"
-    },
-    {
-        "uid": "4670706662",
-        "password": "riski_Y4TNK_BY_MG24_GAMER_HHAP5"
-    },
-    {
-        "uid": "4670706774",
-        "password": "riski_3TKLD_BY_MG24_GAMER_66N6B"
-    },
-    {
-        "uid": "4670706744",
-        "password": "riski_XP5SC_BY_MG24_GAMER_2D57T"
-    },
-    {
-        "uid": "4670706717",
-        "password": "riski_AFLYL_BY_MG24_GAMER_J6NQO"
-    }
+  {
+    "uid": 4670706501,
+    "password": "riski_BE9BF_BY_MG24_GAMER_WJXFL"
+  },
+  {
+    "uid": 4670706489,
+    "password": "riski_XX35B_BY_MG24_GAMER_DF61X"
+  },
+  {
+    "uid": 4670706488,
+    "password": "riski_7CYWC_BY_MG24_GAMER_WWSS7"
+  },
+  {
+    "uid": 4670706568,
+    "password": "riski_2HHXW_BY_MG24_GAMER_IPH0B"
+  },
+  {
+    "uid": 4670706574,
+    "password": "riski_VI3T8_BY_MG24_GAMER_4WMD8"
+  },
+  {
+    "uid": 4670706576,
+    "password": "riski_ZC46C_BY_MG24_GAMER_HDVBD"
+  },
+  {
+    "uid": 4670706642,
+    "password": "riski_ZRP2M_BY_MG24_GAMER_D7R6N"
+  },
+  {
+    "uid": 4670706662,
+    "password": "riski_Y4TNK_BY_MG24_GAMER_HHAP5"
+  },
+  {
+    "uid": 4670706654,
+    "password": "riski_ALYUC_BY_MG24_GAMER_PEYRM"
+  },
+  {
+    "uid": 4670706717,
+    "password": "riski_AFLYL_BY_MG24_GAMER_J6NQO"
+  },
+  {
+    "uid": 4670706744,
+    "password": "riski_XP5SC_BY_MG24_GAMER_2D57T"
+  },
+  {
+    "uid": 4670706774,
+    "password": "riski_3TKLD_BY_MG24_GAMER_66N6B"
+  },
+  {
+    "uid": 4670706785,
+    "password": "riski_0A89C_BY_MG24_GAMER_T7CMR"
+  },
+  {
+    "uid": 4670706803,
+    "password": "riski_16SP0_BY_MG24_GAMER_8VNXX"
+  },
+  {
+    "uid": 4670706862,
+    "password": "riski_LCI4O_BY_MG24_GAMER_P8O0H"
+  },
+  {
+    "uid": 4670706875,
+    "password": "riski_K7F9R_BY_MG24_GAMER_JSGUD"
+  },
+  {
+    "uid": 4670706942,
+    "password": "riski_LKG3P_BY_MG24_GAMER_9R4AY"
+  },
+  {
+    "uid": 4670706970,
+    "password": "riski_UQN0U_BY_MG24_GAMER_ZUAE2"
+  },
+  {
+    "uid": 4670707020,
+    "password": "riski_JMDXU_BY_MG24_GAMER_O4RV4"
+  },
+  {
+    "uid": 4670707053,
+    "password": "riski_4WT3S_BY_MG24_GAMER_V0CZV"
+  },
+  {
+    "uid": 4670707035,
+    "password": "riski_ALLE2_BY_MG24_GAMER_VMMPF"
+  },
+  {
+    "uid": 4670707137,
+    "password": "riski_ZVG9H_BY_MG24_GAMER_KAPKF"
+  },
+  {
+    "uid": 4670707161,
+    "password": "riski_RYH2J_BY_MG24_GAMER_P0KHE"
+  },
+  {
+    "uid": 4670707093,
+    "password": "riski_LFA9Y_BY_MG24_GAMER_HN58A"
+  },
+  {
+    "uid": 4670707196,
+    "password": "riski_VM4CF_BY_MG24_GAMER_2GGQW"
+  },
+  {
+    "uid": 4670707228,
+    "password": "riski_32RRE_BY_MG24_GAMER_4XLMA"
+  },
+  {
+    "uid": 4670707252,
+    "password": "riski_5VPK9_BY_MG24_GAMER_PZTEA"
+  },
+  {
+    "uid": 4670707260,
+    "password": "riski_C9W4U_BY_MG24_GAMER_GXSNJ"
+  },
+  {
+    "uid": 4670707285,
+    "password": "riski_T3NMB_BY_MG24_GAMER_VPIEE"
+  },
+  {
+    "uid": 4670707314,
+    "password": "riski_HMQT2_BY_MG24_GAMER_DWEBK"
+  },
+  {
+    "uid": 4670707328,
+    "password": "riski_BEMYL_BY_MG24_GAMER_4OD9K"
+  },
+  {
+    "uid": 4670707354,
+    "password": "riski_S5HR3_BY_MG24_GAMER_V2WX1"
+  },
+  {
+    "uid": 4670707398,
+    "password": "riski_OQ7A9_BY_MG24_GAMER_27FU3"
+  },
+  {
+    "uid": 4670707422,
+    "password": "riski_5H8YT_BY_MG24_GAMER_QYIMJ"
+  },
+  {
+    "uid": 4670707666,
+    "password": "riski_HM8EU_BY_MG24_GAMER_XL7WK"
+  },
+  {
+    "uid": 4670707697,
+    "password": "riski_OBJO3_BY_MG24_GAMER_4MX08"
+  },
+  {
+    "uid": 4670707690,
+    "password": "riski_MJ55U_BY_MG24_GAMER_A6T06"
+  },
+  {
+    "uid": 4670707773,
+    "password": "riski_28KM4_BY_MG24_GAMER_2F36V"
+  },
+  {
+    "uid": 4670707820,
+    "password": "riski_BPPRJ_BY_MG24_GAMER_UP3DR"
+  },
+  {
+    "uid": 4670707855,
+    "password": "riski_ENCDI_BY_MG24_GAMER_3GYO7"
+  },
+  {
+    "uid": 4670707808,
+    "password": "riski_TGGQE_BY_MG24_GAMER_BJ087"
+  },
+  {
+    "uid": 4670707874,
+    "password": "riski_N58EP_BY_MG24_GAMER_PB165"
+  },
+  {
+    "uid": 4670707927,
+    "password": "riski_PIZV2_BY_MG24_GAMER_AIV2B"
+  },
+  {
+    "uid": 4670707925,
+    "password": "riski_Q9ALW_BY_MG24_GAMER_K90UK"
+  },
+  {
+    "uid": 4670707950,
+    "password": "riski_18XY9_BY_MG24_GAMER_F317T"
+  },
+  {
+    "uid": 4670707998,
+    "password": "riski_ORDX1_BY_MG24_GAMER_FU6EZ"
+  },
+  {
+    "uid": 4670708013,
+    "password": "riski_9548X_BY_MG24_GAMER_TGW74"
+  },
+  {
+    "uid": 4670708005,
+    "password": "riski_YOQUK_BY_MG24_GAMER_JCULR"
+  },
+  {
+    "uid": 4670708037,
+    "password": "riski_XG4L1_BY_MG24_GAMER_MAEO5"
+  },
+  {
+    "uid": 4670708071,
+    "password": "riski_FHTIZ_BY_MG24_GAMER_VBVTY"
+  },
+  {
+    "uid": 4670708070,
+    "password": "riski_CRU58_BY_MG24_GAMER_2W0NM"
+  },
+  {
+    "uid": 4670708113,
+    "password": "riski_UVAGX_BY_MG24_GAMER_F3EUX"
+  },
+  {
+    "uid": 4670708143,
+    "password": "riski_JYSMP_BY_MG24_GAMER_GS3LZ"
+  },
+  {
+    "uid": 4670708144,
+    "password": "riski_MBVYJ_BY_MG24_GAMER_CG8B8"
+  },
+  {
+    "uid": 4670708474,
+    "password": "riski_CNDIJ_BY_MG24_GAMER_TRHXF"
+  },
+  {
+    "uid": 4670708493,
+    "password": "riski_AOUQO_BY_MG24_GAMER_5XL8N"
+  },
+  {
+    "uid": 4670708509,
+    "password": "riski_1A1XG_BY_MG24_GAMER_XQWVJ"
+  },
+  {
+    "uid": 4670708607,
+    "password": "riski_PWIAA_BY_MG24_GAMER_NUN2Y"
+  },
+  {
+    "uid": 4670708614,
+    "password": "riski_0N0BB_BY_MG24_GAMER_W17IV"
+  },
+  {
+    "uid": 4670708603,
+    "password": "riski_3W4FE_BY_MG24_GAMER_GR972"
+  },
+  {
+    "uid": 4670708706,
+    "password": "riski_P2AX8_BY_MG24_GAMER_BS8NY"
+  },
+  {
+    "uid": 4670708711,
+    "password": "riski_WFYL4_BY_MG24_GAMER_ZA54A"
+  },
+  {
+    "uid": 4670708729,
+    "password": "riski_A9KWL_BY_MG24_GAMER_WUE53"
+  },
+  {
+    "uid": 4670708774,
+    "password": "riski_XVQ6D_BY_MG24_GAMER_6NDIR"
+  },
+  {
+    "uid": 4670708781,
+    "password": "riski_2M8PA_BY_MG24_GAMER_04ORV"
+  },
+  {
+    "uid": 4670708793,
+    "password": "riski_XBHEI_BY_MG24_GAMER_ESC3O"
+  },
+  {
+    "uid": 4670708859,
+    "password": "riski_OSJCR_BY_MG24_GAMER_58MZ7"
+  },
+  {
+    "uid": 4670708909,
+    "password": "riski_LBHDY_BY_MG24_GAMER_TZ6AV"
+  },
+  {
+    "uid": 4670708942,
+    "password": "riski_E2R8V_BY_MG24_GAMER_DHBC5"
+  },
+  {
+    "uid": 4670708973,
+    "password": "riski_T0F8V_BY_MG24_GAMER_72VDS"
+  },
+  {
+    "uid": 4670709015,
+    "password": "riski_FM8H6_BY_MG24_GAMER_4INA8"
+  },
+  {
+    "uid": 4670709028,
+    "password": "riski_E0I8M_BY_MG24_GAMER_5TKCN"
+  },
+  {
+    "uid": 4670709053,
+    "password": "riski_9DIRV_BY_MG24_GAMER_LMGCP"
+  },
+  {
+    "uid": 4670709098,
+    "password": "riski_JLRH6_BY_MG24_GAMER_9WVG0"
+  },
+  {
+    "uid": 4670709271,
+    "password": "riski_JQUTH_BY_MG24_GAMER_2GGWK"
+  },
+  {
+    "uid": 4670709294,
+    "password": "riski_S1JQU_BY_MG24_GAMER_QS8AZ"
+  },
+  {
+    "uid": 4670709332,
+    "password": "riski_A975V_BY_MG24_GAMER_GLXH9"
+  },
+  {
+    "uid": 4670709377,
+    "password": "riski_HC0Z2_BY_MG24_GAMER_8AYTR"
+  },
+  {
+    "uid": 4670709378,
+    "password": "riski_ZOX5E_BY_MG24_GAMER_9PR5D"
+  },
+  {
+    "uid": 4670709487,
+    "password": "riski_U3WGF_BY_MG24_GAMER_LJ9D2"
+  },
+  {
+    "uid": 4670709482,
+    "password": "riski_ZDIA8_BY_MG24_GAMER_UB780"
+  },
+  {
+    "uid": 4670709491,
+    "password": "riski_8ON3W_BY_MG24_GAMER_KNZPH"
+  },
+  {
+    "uid": 4670709573,
+    "password": "riski_PQ504_BY_MG24_GAMER_OACZX"
+  },
+  {
+    "uid": 4670709583,
+    "password": "riski_UACFH_BY_MG24_GAMER_V1WTD"
+  },
+  {
+    "uid": 4670709601,
+    "password": "riski_498H0_BY_MG24_GAMER_DYFMS"
+  },
+  {
+    "uid": 4670709647,
+    "password": "riski_N482J_BY_MG24_GAMER_K6FWT"
+  },
+  {
+    "uid": 4670709651,
+    "password": "riski_3CFGE_BY_MG24_GAMER_Z0LGA"
+  },
+  {
+    "uid": 4670709684,
+    "password": "riski_FK8PP_BY_MG24_GAMER_6D725"
+  },
+  {
+    "uid": 4670709712,
+    "password": "riski_02S5E_BY_MG24_GAMER_J42JX"
+  },
+  {
+    "uid": 4670709714,
+    "password": "riski_XIHXS_BY_MG24_GAMER_6VJFV"
+  },
+  {
+    "uid": 4670709750,
+    "password": "riski_N4WOG_BY_MG24_GAMER_ENAOJ"
+  },
+  {
+    "uid": 4670709788,
+    "password": "riski_2DDIC_BY_MG24_GAMER_GMRNT"
+  },
+  {
+    "uid": 4670709792,
+    "password": "riski_DDJ84_BY_MG24_GAMER_96MWI"
+  },
+  {
+    "uid": 4670709850,
+    "password": "riski_2J529_BY_MG24_GAMER_54F1C"
+  },
+  {
+    "uid": 4670710049,
+    "password": "riski_6Y3CX_BY_MG24_GAMER_Z03Q2"
+  },
+  {
+    "uid": 4670710079,
+    "password": "riski_9EPW6_BY_MG24_GAMER_JACDE"
+  },
+  {
+    "uid": 4670710091,
+    "password": "riski_QF1C4_BY_MG24_GAMER_CCSO3"
+  },
+  {
+    "uid": 4670710181,
+    "password": "riski_F0H10_BY_MG24_GAMER_3BAB8"
+  },
+  {
+    "uid": 4670710179,
+    "password": "riski_7FHJW_BY_MG24_GAMER_0SMFL"
+  },
+  {
+    "uid": 4670710262,
+    "password": "riski_3PSTW_BY_MG24_GAMER_WEECZ"
+  },
+  {
+    "uid": 4670710251,
+    "password": "riski_0SW55_BY_MG24_GAMER_NCTZQ"
+  },
+  {
+    "uid": 4670710270,
+    "password": "riski_PP69Q_BY_MG24_GAMER_NUIBT"
+  },
+  {
+    "uid": 4670711433,
+    "password": "riski_84FOL_BY_MG24_GAMER_FTZ0N"
+  },
+  {
+    "uid": 4670711435,
+    "password": "riski_5U3OA_BY_MG24_GAMER_ABM0Y"
+  },
+  {
+    "uid": 4670711432,
+    "password": "riski_UQDPM_BY_MG24_GAMER_SM585"
+  },
+  {
+    "uid": 4670711493,
+    "password": "riski_9FFEB_BY_MG24_GAMER_Q5C76"
+  },
+  {
+    "uid": 4670711506,
+    "password": "riski_I7I62_BY_MG24_GAMER_Y233C"
+  },
+  {
+    "uid": 4670711509,
+    "password": "riski_M1SAN_BY_MG24_GAMER_9FG05"
+  },
+  {
+    "uid": 4670711566,
+    "password": "riski_S5IXL_BY_MG24_GAMER_P03DM"
+  },
+  {
+    "uid": 4670711584,
+    "password": "riski_VN9C7_BY_MG24_GAMER_AEMAD"
+  },
+  {
+    "uid": 4670711581,
+    "password": "riski_1VPYW_BY_MG24_GAMER_MBGIN"
+  },
+  {
+    "uid": 4670711659,
+    "password": "riski_7G44N_BY_MG24_GAMER_ZXINH"
+  },
+  {
+    "uid": 4670711698,
+    "password": "riski_3OF80_BY_MG24_GAMER_B7450"
+  },
+  {
+    "uid": 4670711716,
+    "password": "riski_GOY9C_BY_MG24_GAMER_HEYX5"
+  },
+  {
+    "uid": 4670711765,
+    "password": "riski_8BPL3_BY_MG24_GAMER_MW8F5"
+  },
+  {
+    "uid": 4670711788,
+    "password": "riski_WWE0K_BY_MG24_GAMER_GGESU"
+  },
+  {
+    "uid": 4670711787,
+    "password": "riski_ZCK3L_BY_MG24_GAMER_RBYDB"
+  },
+  {
+    "uid": 4670711865,
+    "password": "riski_7OZT6_BY_MG24_GAMER_95485"
+  },
+  {
+    "uid": 4670711866,
+    "password": "riski_2P8UQ_BY_MG24_GAMER_3JFDK"
+  },
+  {
+    "uid": 4670711855,
+    "password": "riski_Y5ZF2_BY_MG24_GAMER_LJBKT"
+  },
+  {
+    "uid": 4670711945,
+    "password": "riski_5TSQJ_BY_MG24_GAMER_REYI8"
+  },
+  {
+    "uid": 4670711940,
+    "password": "riski_DMZK2_BY_MG24_GAMER_8BIG6"
+  },
+  {
+    "uid": 4670711947,
+    "password": "riski_UT07L_BY_MG24_GAMER_RHWDV"
+  },
+  {
+    "uid": 4670712006,
+    "password": "riski_Y8R4C_BY_MG24_GAMER_RIR9D"
+  },
+  {
+    "uid": 4670712019,
+    "password": "riski_IJ7GT_BY_MG24_GAMER_7OD7G"
+  },
+  {
+    "uid": 4670712039,
+    "password": "riski_HOYN6_BY_MG24_GAMER_1TTQF"
+  },
+  {
+    "uid": 4670712072,
+    "password": "riski_11BFP_BY_MG24_GAMER_Z4BRS"
+  },
+  {
+    "uid": 4670712089,
+    "password": "riski_EVBXH_BY_MG24_GAMER_NKLP7"
+  },
+  {
+    "uid": 4670712097,
+    "password": "riski_IEVIY_BY_MG24_GAMER_ZYTWB"
+  },
+  {
+    "uid": 4670712131,
+    "password": "riski_CLTOH_BY_MG24_GAMER_D6WOR"
+  },
+  {
+    "uid": 4670712147,
+    "password": "riski_Q80UD_BY_MG24_GAMER_0IZ8M"
+  },
+  {
+    "uid": 4670712448,
+    "password": "riski_D81HV_BY_MG24_GAMER_3JW5A"
+  },
+  {
+    "uid": 4670712446,
+    "password": "riski_KNGTY_BY_MG24_GAMER_LPXCP"
+  },
+  {
+    "uid": 4670712440,
+    "password": "riski_81UV9_BY_MG24_GAMER_9D1V4"
+  },
+  {
+    "uid": 4670712553,
+    "password": "riski_5ALOJ_BY_MG24_GAMER_36XQE"
+  },
+  {
+    "uid": 4670712551,
+    "password": "riski_E2SR8_BY_MG24_GAMER_ZOYD8"
+  },
+  {
+    "uid": 4670712578,
+    "password": "riski_6BPIC_BY_MG24_GAMER_PN15P"
+  },
+  {
+    "uid": 4670712613,
+    "password": "riski_T91BM_BY_MG24_GAMER_6RC5G"
+  },
+  {
+    "uid": 4670712625,
+    "password": "riski_8X3DJ_BY_MG24_GAMER_S8982"
+  },
+  {
+    "uid": 4670712645,
+    "password": "riski_VFI9G_BY_MG24_GAMER_0RGVM"
+  },
+  {
+    "uid": 4670712679,
+    "password": "riski_ZOZV2_BY_MG24_GAMER_NSTRM"
+  },
+  {
+    "uid": 4670712681,
+    "password": "riski_MQI6B_BY_MG24_GAMER_S0CTB"
+  },
+  {
+    "uid": 4670712720,
+    "password": "riski_32QAP_BY_MG24_GAMER_FPZ0U"
+  },
+  {
+    "uid": 4670712768,
+    "password": "riski_771CB_BY_MG24_GAMER_8F57W"
+  },
+  {
+    "uid": 4670712761,
+    "password": "riski_ZIRRO_BY_MG24_GAMER_D86BM"
+  },
+  {
+    "uid": 4670712815,
+    "password": "riski_A8HLX_BY_MG24_GAMER_EB31Q"
+  },
+  {
+    "uid": 4670712846,
+    "password": "riski_GQE2Y_BY_MG24_GAMER_5SLW9"
+  },
+  {
+    "uid": 4670712852,
+    "password": "riski_434ZR_BY_MG24_GAMER_5P1AE"
+  },
+  {
+    "uid": 4670712889,
+    "password": "riski_VNN7E_BY_MG24_GAMER_7694G"
+  },
+  {
+    "uid": 4670712924,
+    "password": "riski_6FBN5_BY_MG24_GAMER_7RETJ"
+  },
+  {
+    "uid": 4670712925,
+    "password": "riski_82W4V_BY_MG24_GAMER_WXL3P"
+  },
+  {
+    "uid": 4670713246,
+    "password": "riski_GOJXV_BY_MG24_GAMER_YEKV0"
+  },
+  {
+    "uid": 4670713244,
+    "password": "riski_I4VAZ_BY_MG24_GAMER_CJXUJ"
+  },
+  {
+    "uid": 4670713279,
+    "password": "riski_4GJM9_BY_MG24_GAMER_BXUS2"
+  },
+  {
+    "uid": 4670713357,
+    "password": "riski_QXSMF_BY_MG24_GAMER_Y2TQH"
+  },
+  {
+    "uid": 4670713374,
+    "password": "riski_WOHKF_BY_MG24_GAMER_4FZHW"
+  },
+  {
+    "uid": 4670713382,
+    "password": "riski_UTSI8_BY_MG24_GAMER_G432P"
+  },
+  {
+    "uid": 4670713455,
+    "password": "riski_A1QWA_BY_MG24_GAMER_2F3NH"
+  },
+  {
+    "uid": 4670713465,
+    "password": "riski_37RSK_BY_MG24_GAMER_AS5KT"
+  },
+  {
+    "uid": 4670713485,
+    "password": "riski_37I8Z_BY_MG24_GAMER_HME3N"
+  },
+  {
+    "uid": 4670713541,
+    "password": "riski_9X1V9_BY_MG24_GAMER_UDYTP"
+  },
+  {
+    "uid": 4670713573,
+    "password": "riski_1E0EV_BY_MG24_GAMER_MZIPP"
+  },
+  {
+    "uid": 4670713533,
+    "password": "riski_RNZDQ_BY_MG24_GAMER_BKHD1"
+  },
+  {
+    "uid": 4670713617,
+    "password": "riski_IJIXM_BY_MG24_GAMER_4KCOO"
+  },
+  {
+    "uid": 4670713638,
+    "password": "riski_Y6RUC_BY_MG24_GAMER_BJKEK"
+  },
+  {
+    "uid": 4670713639,
+    "password": "riski_93BX5_BY_MG24_GAMER_RYFQ8"
+  },
+  {
+    "uid": 4670713677,
+    "password": "riski_G517D_BY_MG24_GAMER_41VLN"
+  },
+  {
+    "uid": 4670713713,
+    "password": "riski_WTO4B_BY_MG24_GAMER_2P3DT"
+  },
+  {
+    "uid": 4670713717,
+    "password": "riski_KUBPU_BY_MG24_GAMER_PXZBV"
+  },
+  {
+    "uid": 4670713758,
+    "password": "riski_83FPU_BY_MG24_GAMER_F9X1B"
+  },
+  {
+    "uid": 4670713790,
+    "password": "riski_7ZPYD_BY_MG24_GAMER_IDE3N"
+  },
+  {
+    "uid": 4670714048,
+    "password": "riski_JFKKE_BY_MG24_GAMER_6OWJ2"
+  },
+  {
+    "uid": 4670714103,
+    "password": "riski_FR3HU_BY_MG24_GAMER_0Z2YL"
+  },
+  {
+    "uid": 4670714081,
+    "password": "riski_AZWO8_BY_MG24_GAMER_4RECE"
+  },
+  {
+    "uid": 4670714176,
+    "password": "riski_980LC_BY_MG24_GAMER_H3AJ2"
+  },
+  {
+    "uid": 4670714242,
+    "password": "riski_3O9BL_BY_MG24_GAMER_FYZC1"
+  },
+  {
+    "uid": 4670714336,
+    "password": "riski_Z8LDF_BY_MG24_GAMER_NUVIV"
+  },
+  {
+    "uid": 4670714341,
+    "password": "riski_WCWCW_BY_MG24_GAMER_10P2F"
+  },
+  {
+    "uid": 4670714347,
+    "password": "riski_3THI3_BY_MG24_GAMER_U1EP7"
+  },
+  {
+    "uid": 4670714399,
+    "password": "riski_0PXSE_BY_MG24_GAMER_YD7AR"
+  },
+  {
+    "uid": 4670714415,
+    "password": "riski_RGPZV_BY_MG24_GAMER_RW4OF"
+  },
+  {
+    "uid": 4670714424,
+    "password": "riski_VYETP_BY_MG24_GAMER_Y5JY1"
+  },
+  {
+    "uid": 4670714465,
+    "password": "riski_U26IK_BY_MG24_GAMER_E00YO"
+  },
+  {
+    "uid": 4670714503,
+    "password": "riski_K1MO1_BY_MG24_GAMER_DRKJE"
+  },
+  {
+    "uid": 4670714521,
+    "password": "riski_8Q3OF_BY_MG24_GAMER_GMBSN"
+  },
+  {
+    "uid": 4670714553,
+    "password": "riski_33YI0_BY_MG24_GAMER_N8E2E"
+  },
+  {
+    "uid": 4670714581,
+    "password": "riski_OYEBI_BY_MG24_GAMER_XCEO4"
+  },
+  {
+    "uid": 4670714613,
+    "password": "riski_7FWBB_BY_MG24_GAMER_9AKBD"
+  },
+  {
+    "uid": 4670714640,
+    "password": "riski_979E3_BY_MG24_GAMER_I2DLO"
+  },
+  {
+    "uid": 4670714659,
+    "password": "riski_E2F35_BY_MG24_GAMER_60GXN"
+  },
+  {
+    "uid": 4670714698,
+    "password": "riski_HKRIC_BY_MG24_GAMER_B7J23"
+  },
+  {
+    "uid": 4670714941,
+    "password": "riski_XMMXD_BY_MG24_GAMER_MNHNO"
+  },
+  {
+    "uid": 4670714961,
+    "password": "riski_5XKMT_BY_MG24_GAMER_8RO8H"
+  },
+  {
+    "uid": 4670714974,
+    "password": "riski_V8HO8_BY_MG24_GAMER_XMKLC"
+  },
+  {
+    "uid": 4670715057,
+    "password": "riski_MM5DB_BY_MG24_GAMER_O9GLB"
+  },
+  {
+    "uid": 4670715085,
+    "password": "riski_OJYYL_BY_MG24_GAMER_OD4Z0"
+  },
+  {
+    "uid": 4670715100,
+    "password": "riski_6XWOK_BY_MG24_GAMER_QJ5EG"
+  },
+  {
+    "uid": 4670715175,
+    "password": "riski_U7MNU_BY_MG24_GAMER_LORZH"
+  },
+  {
+    "uid": 4670715182,
+    "password": "riski_XQ5AZ_BY_MG24_GAMER_866X7"
+  },
+  {
+    "uid": 4670715212,
+    "password": "riski_YADFY_BY_MG24_GAMER_FRRQF"
+  },
+  {
+    "uid": 4670715266,
+    "password": "riski_9G2VP_BY_MG24_GAMER_YS0OO"
+  },
+  {
+    "uid": 4670715260,
+    "password": "riski_O8CB2_BY_MG24_GAMER_Q37ZK"
+  },
+  {
+    "uid": 4670715311,
+    "password": "riski_F4PB2_BY_MG24_GAMER_PFPGV"
+  },
+  {
+    "uid": 4670715339,
+    "password": "riski_WM7GO_BY_MG24_GAMER_SGGCO"
+  },
+  {
+    "uid": 4670715346,
+    "password": "riski_XHZUP_BY_MG24_GAMER_C8NHS"
+  },
+  {
+    "uid": 4670715409,
+    "password": "riski_MXDYF_BY_MG24_GAMER_ZQ0BD"
+  },
+  {
+    "uid": 4670715422,
+    "password": "riski_MNVPP_BY_MG24_GAMER_74L13"
+  },
+  {
+    "uid": 4670715454,
+    "password": "riski_U7QCO_BY_MG24_GAMER_ETNU7"
+  },
+  {
+    "uid": 4670715496,
+    "password": "riski_PELGV_BY_MG24_GAMER_CE7L0"
+  },
+  {
+    "uid": 4670715527,
+    "password": "riski_MOH6P_BY_MG24_GAMER_88NUA"
+  },
+  {
+    "uid": 4670715542,
+    "password": "riski_AVR9U_BY_MG24_GAMER_Z0213"
+  },
+  {
+    "uid": 4670715818,
+    "password": "riski_Z52LP_BY_MG24_GAMER_B31DA"
+  },
+  {
+    "uid": 4670715848,
+    "password": "riski_W61HC_BY_MG24_GAMER_EZWXS"
+  },
+  {
+    "uid": 4670715831,
+    "password": "riski_WIRGH_BY_MG24_GAMER_Z6WG1"
+  },
+  {
+    "uid": 4670715950,
+    "password": "riski_LX1T2_BY_MG24_GAMER_DVJSH"
+  },
+  {
+    "uid": 4670715972,
+    "password": "riski_CFYAW_BY_MG24_GAMER_SJL75"
+  },
+  {
+    "uid": 4670715968,
+    "password": "riski_KR2WT_BY_MG24_GAMER_4RIFZ"
+  },
+  {
+    "uid": 4670716048,
+    "password": "riski_33HR2_BY_MG24_GAMER_N2I1M"
+  },
+  {
+    "uid": 4670716094,
+    "password": "riski_BQBB5_BY_MG24_GAMER_3OQKJ"
+  },
+  {
+    "uid": 4670716082,
+    "password": "riski_UP1A6_BY_MG24_GAMER_0HAII"
+  },
+  {
+    "uid": 4670716157,
+    "password": "riski_CSVXE_BY_MG24_GAMER_6DIMU"
+  },
+  {
+    "uid": 4670716191,
+    "password": "riski_5FOPQ_BY_MG24_GAMER_JOFUM"
+  },
+  {
+    "uid": 4670716236,
+    "password": "riski_UIMTE_BY_MG24_GAMER_NMB93"
+  },
+  {
+    "uid": 4670716264,
+    "password": "riski_WO4K8_BY_MG24_GAMER_SVJ78"
+  },
+  {
+    "uid": 4670716249,
+    "password": "riski_QNBQR_BY_MG24_GAMER_0PK7B"
+  },
+  {
+    "uid": 4670716320,
+    "password": "riski_Q0G26_BY_MG24_GAMER_AYP0S"
+  },
+  {
+    "uid": 4670716344,
+    "password": "riski_X1OB7_BY_MG24_GAMER_3UHVY"
+  },
+  {
+    "uid": 4670716343,
+    "password": "riski_QQQ4Q_BY_MG24_GAMER_YHOPZ"
+  },
+  {
+    "uid": 4670716384,
+    "password": "riski_OJBIB_BY_MG24_GAMER_XL4LO"
+  },
+  {
+    "uid": 4670716404,
+    "password": "riski_HF7P6_BY_MG24_GAMER_0U0WO"
+  },
+  {
+    "uid": 4670716423,
+    "password": "riski_BUSHC_BY_MG24_GAMER_KX4JM"
+  },
+  {
+    "uid": 4670718740,
+    "password": "riski_VX7EW_BY_MG24_GAMER_ECPBU"
+  },
+  {
+    "uid": 4670718742,
+    "password": "riski_3W7Y6_BY_MG24_GAMER_DW3D7"
+  },
+  {
+    "uid": 4670718741,
+    "password": "riski_KEGNN_BY_MG24_GAMER_C5DJ2"
+  },
+  {
+    "uid": 4670718831,
+    "password": "riski_ZJHDL_BY_MG24_GAMER_G8VEW"
+  },
+  {
+    "uid": 4670718832,
+    "password": "riski_SB630_BY_MG24_GAMER_L0W4U"
+  },
+  {
+    "uid": 4670718833,
+    "password": "riski_M99OK_BY_MG24_GAMER_R2IET"
+  },
+  {
+    "uid": 4670718905,
+    "password": "riski_01RDV_BY_MG24_GAMER_13O1W"
+  },
+  {
+    "uid": 4670718920,
+    "password": "riski_JAZ2H_BY_MG24_GAMER_UWCXR"
+  },
+  {
+    "uid": 4670718903,
+    "password": "riski_VPPZ7_BY_MG24_GAMER_MBPSV"
+  },
+  {
+    "uid": 4670718972,
+    "password": "riski_2IXK8_BY_MG24_GAMER_7E2RF"
+  },
+  {
+    "uid": 4670718977,
+    "password": "riski_LA7JI_BY_MG24_GAMER_STJ1U"
+  },
+  {
+    "uid": 4670718975,
+    "password": "riski_2N6W0_BY_MG24_GAMER_T0G3W"
+  }
 ]
